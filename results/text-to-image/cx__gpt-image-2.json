@@ -1,0 +1,11 @@
+{
+  "model": "cx/gpt-image-2",
+  "prompt": "Create a clean editorial poster, square composition: a small red robot watering one blue sunflower in a white ceramic pot, cream background, soft window light. Add exactly the text 'MEDIA LAB' at the top in bold black sans-serif. No other text.",
+  "curl_exit": 0,
+  "http_code": 400,
+  "content_type": "application/json",
+  "detected_mime": "application/json",
+  "time_total": 2.845088,
+  "size_download": 167,
+  "artifact": "results/text-to-image/cx__gpt-image-2.error.json"
+}

@@ -1,0 +1,11 @@
+{
+  "model": "xai/grok-imagine-video",
+  "prompt": "Change only the sunflower petals from yellow to bright blue. Preserve the red toy robot, white ceramic pot, cream studio background, camera motion, and timing. Add no text.",
+  "curl_exit": 0,
+  "http_code": 200,
+  "request_id": "1e568e52-2360-93ec-a8ee-f50a15951f25",
+  "connection_id_present": true,
+  "status": "done",
+  "poll_count": 6,
+  "artifact": "results/video-edit/xai__grok-imagine-video-edit.mp4"
+}

@@ -1,0 +1,12 @@
+{
+  "model": "cx/gpt-5.5-image",
+  "prompt": "Edit the supplied poster only: change the blue sunflower to bright yellow. Preserve the red robot, white ceramic pot, cream background, square composition, and the exact text 'MEDIA LAB'. Add no other text.",
+  "source_image": "results/text-to-image/ag__gemini-3.1-flash-image.jpg",
+  "curl_exit": 0,
+  "http_code": 200,
+  "content_type": "image/png",
+  "detected_mime": "image/png",
+  "time_total": 92.333927,
+  "size_download": 1966344,
+  "artifact": "results/image-edit/cx__gpt-5.5-image.png"
+}

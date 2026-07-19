@@ -1,0 +1,9 @@
+HTTP/1.1 400 Bad Request
+vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+content-type: application/json
+retry-after: 18
+Date: Sat, 18 Jul 2026 06:36:05 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Transfer-Encoding: chunked
+

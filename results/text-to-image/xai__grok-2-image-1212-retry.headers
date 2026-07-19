@@ -1,0 +1,9 @@
+HTTP/1.1 404 Not Found
+vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+content-type: application/json
+retry-after: 120
+Date: Sat, 18 Jul 2026 06:30:03 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Transfer-Encoding: chunked
+

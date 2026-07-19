@@ -1,0 +1,14 @@
+{
+  "model": "xai/grok-imagine-video",
+  "prompt": "A small red toy robot gently waters one yellow sunflower in a white ceramic pot, cream studio background, locked camera, soft window light. No text.",
+  "duration": 2,
+  "aspect_ratio": "1:1",
+  "resolution": "480p",
+  "curl_exit": 0,
+  "http_code": 200,
+  "request_id": "708f6e61-cd14-96ce-9b71-860481b81595",
+  "connection_id_present": true,
+  "status": "done",
+  "poll_count": 4,
+  "artifact": "results/video/xai__grok-imagine-video.mp4"
+}

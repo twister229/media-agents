@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+access-control-allow-origin: *
+content-disposition: inline; filename="image.png"
+content-type: image/png
+Date: Sat, 18 Jul 2026 06:28:54 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Transfer-Encoding: chunked
+

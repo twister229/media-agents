@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+access-control-allow-origin: *
+content-type: application/json
+x-9router-connection-id: 37efd4ce-f00f-4839-bf20-02f2efaa9d18
+Date: Sat, 18 Jul 2026 06:38:45 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Transfer-Encoding: chunked
+

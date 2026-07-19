@@ -1,0 +1,10 @@
+{
+  "model": "xai/grok-imagine-image",
+  "http_code": 200,
+  "content_type": "image/png",
+  "detected_mime": "image/jpeg",
+  "time_total": 7.081224,
+  "size_download": 136891,
+  "artifact": "results/text-to-image/xai__grok-imagine-image.jpg",
+  "catalogued": false
+}
